@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=president_read
+comment1.params=json\ key
+comment1.target=java.lang.String\ extractJsonValue(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Extracts\ the\ String\ value\ associated\ with\ a\ JSON\ key.\r\n\ Example\:\ extractJsonValue(jsonString,\ "president")\ returns\ "George\ Washington"\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
